@@ -1,4 +1,4 @@
-# OCR-BHD
+# Compare image and text using OCR
 
 OCR with pre-processing, tokenize text, cosine similarity using TF-IDF.
 
